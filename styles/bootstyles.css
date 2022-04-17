@@ -1,0 +1,16 @@
+.header{
+    height: 100px;
+    background-color: darkgreen;
+    font-size: large;
+}
+.footer{
+    height: 50px;
+    background-color: black;
+    color: antiquewhite;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: darkolivegreen;
+}
